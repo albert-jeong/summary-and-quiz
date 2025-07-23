@@ -6,6 +6,14 @@
 - 협업 상황을 가정한 워크스페이스는 노션에 구성했습니다.
 	- 링크: (현재 링크 비활성화)
 
+## LICENSE
+- Bllossom/llama‑3.2‑Korean‑Bllossom‑3B
+	- LLaMA 3.2 License
+- noahkim/KoT5_news_summarization
+	- (현재 원본 삭제됨)
+- daekeun‑ml/naver‑news‑summarization‑ko
+	- Apache License 2.0
+
 ## main.ipynb
 - 프로젝트 완성 파일
 
