@@ -16,7 +16,7 @@
 - **Libraries**
     - **Python**: 3.12
     - **PyTorch**: 2.5.1+cu124 (Stable 2.5.1, CUDA 12.4)
-    - NVIDIA cuDNN 9.6****
+    - NVIDIA cuDNN 9.6
 
 ### 1.1. 일정
 |      일자      |        프로그램 내용         |
